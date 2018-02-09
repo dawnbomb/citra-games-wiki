@@ -1,0 +1,9 @@
+title = "Devil Survivor Overclocked"
+description = "Publisher: Atlus (JPN, US)   Ghostlight (EU)\nGenre: Tactical RPG\n\nA grid based tactical RPG, Teams of units fight across a grid. Unlike other Similar games, after you engage with a enemy, the units team begins turn based combat with the enemy team. the game has a in game time system, and multiple endings. Like other Shin Megami Tensai games, it has demons, creatures of sorts that you can collect and fuse together."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000038800"
+region = "usa"
+release_date = "2011-08-23"
